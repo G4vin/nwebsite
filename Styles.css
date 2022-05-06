@@ -1,0 +1,16 @@
+.Cardio{
+    padding: 10px;
+    border:2px black solid;
+}
+.cardio img{
+    width: 240px;
+    height: 100px;
+}
+.Athletics{
+    padding: 10px;
+    border:2px black solid ;
+}
+.Weightlifting{
+    padding: 10px;
+    border:2px black solid;
+}
